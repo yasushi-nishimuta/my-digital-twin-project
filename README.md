@@ -1,5 +1,7 @@
 # 本で床は抜けるのか・AI編（仮）— デジタルツイン計画
 
+> *A Japanese journalist's project to digitize 30+ years of interview notes, diaries, photos, and video into a searchable, RAG-based "digital twin" — part memoir project, part open build log. Full documentation is in Japanese; see below.*
+
 ## これは何か
 
 30年以上のジャーナリスト活動で積み重ねてきたテキスト・写真・動画・書籍PDFを整理・統合し、自分自身の「知の分身（デジタルツイン）」をローカルAIとして構築するプロジェクトです。
